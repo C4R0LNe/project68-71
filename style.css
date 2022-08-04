@@ -1,0 +1,42 @@
+#contact iframe
+{
+    width: 100%;
+}
+.campus_mainDiv
+{
+    border: 1px solid rgb(97, 97, 97);
+}
+
+.campus_mainDiv img
+{
+  width: 100%;
+}
+
+.campus_mainDiv h5 , .campus_mainDiv p
+{
+margin: 20px;
+}
+
+.achi_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.achi_head i
+{
+float: right;
+}
+
+.achi_text span
+{
+color: orange;
+}
+
+.whats
+{
+margin-bottom: 20px;
+
+}
